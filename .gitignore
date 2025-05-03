@@ -1,0 +1,25 @@
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Chrome extension build artifacts (if any)
+dist/
+build/
+
+# Node.js (if you use any dev tooling)
+node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Sensitive data (if ever added)
+.env
+.env.*
+
+# Miscellaneous
+*.zip
+*.crx
