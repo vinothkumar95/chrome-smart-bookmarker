@@ -24,7 +24,7 @@
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/vinothkumar95/chrome-smart-bookmarker
+   git clone https://github.com/vinothkumar95/chrome-smart-bookmarker.git
    ````
 
 2. Open Google Chrome and go to:
